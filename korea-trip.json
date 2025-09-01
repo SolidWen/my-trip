@@ -68,6 +68,17 @@
             }
           ],
           "mapDestination": "380-17 Mangwon-dong, Mapo-gu, Seoul"
+        },
+        {
+          "time": "21:00",
+          "description": "kk test",
+          "notes": "",
+          "type": "activity",
+          "id": "item-1756693182657",
+          "expenses": [],
+          "imageUrl": "https://picsum.photos/seed/kk%20test/400/200",
+          "additionalUrls": [],
+          "mapDestination": "kk test"
         }
       ]
     },
