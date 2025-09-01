@@ -32,17 +32,6 @@
           ]
         },
         {
-          "time": "12:00",
-          "description": "asd",
-          "notes": "asd",
-          "type": "activity",
-          "id": "item-1756692453156",
-          "expenses": [],
-          "imageUrl": "https://picsum.photos/seed/asd/400/200",
-          "additionalUrls": [],
-          "mapDestination": "asd"
-        },
-        {
           "time": "16:40",
           "description": "Landed, Bus to TaiChung",
           "notes": "**Bus to take**: UBus #1623 or Kuo‑Kuang #1860/FreeGo #5503\nEvery 20–30 minutes from 5:30 AM to 11:30 PM",
