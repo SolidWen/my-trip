@@ -42,6 +42,17 @@
           ]
         },
         {
+          "time": "12:00",
+          "description": "Test",
+          "notes": "Trst",
+          "type": "activity",
+          "id": "item-1756692568480",
+          "expenses": [],
+          "imageUrl": "https://picsum.photos/seed/Test/400/200",
+          "additionalUrls": [],
+          "mapDestination": "Test"
+        },
+        {
           "time": "15:35",
           "description": "Landed",
           "notes": "",
@@ -752,7 +763,7 @@
       ]
     }
   ],
-  "activeTab": "Expenses",
+  "activeTab": "Itinerary",
   "expandedItemId": "item-1756584537257",
   "flightDetails": {
     "departureFrom": "Singapore",
@@ -765,5 +776,9 @@
   "currencySettings": {
     "isManual": true,
     "manualRate": "0.00092"
+  },
+  "tripSource": {
+    "type": "github",
+    "fileName": "korea-trip.json"
   }
 }
