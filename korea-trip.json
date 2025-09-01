@@ -42,17 +42,6 @@
           ]
         },
         {
-          "time": "12:00",
-          "description": "Test",
-          "notes": "Trst",
-          "type": "activity",
-          "id": "item-1756692568480",
-          "expenses": [],
-          "imageUrl": "https://picsum.photos/seed/Test/400/200",
-          "additionalUrls": [],
-          "mapDestination": "Test"
-        },
-        {
           "time": "15:35",
           "description": "Landed",
           "notes": "",
