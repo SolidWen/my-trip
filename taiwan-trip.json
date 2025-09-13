@@ -288,7 +288,7 @@
         {
           "id": "pack-2",
           "text": "YY extra clothes set",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -504,13 +504,13 @@
         {
           "id": "pack-item-1757755378994",
           "text": "clothes",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
           "id": "pack-item-1757755387130",
           "text": "PJ",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
@@ -528,7 +528,7 @@
         {
           "id": "pack-item-1757755418204",
           "text": "Underwear",
-          "checked": false,
+          "checked": true,
           "amount": 5
         },
         {
@@ -546,13 +546,13 @@
         {
           "id": "pack-item-1757755511160",
           "text": "clothes",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
           "id": "pack-item-1757755516884",
           "text": "PJ",
-          "checked": false,
+          "checked": true,
           "amount": 2
         },
         {
@@ -564,7 +564,7 @@
         {
           "id": "pack-item-1757755546576",
           "text": "Makeups",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
