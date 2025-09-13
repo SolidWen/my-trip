@@ -21,7 +21,7 @@
           "additionalUrls": [],
           "expenses": [
             {
-              "amount": 637,
+              "amount": 730,
               "description": "Air ticket",
               "paidById": "traveler-1756512278010",
               "splitWith": [
@@ -114,7 +114,7 @@
           "id": "item-1756511935384",
           "expenses": [
             {
-              "amount": 118,
+              "amount": 166.2,
               "description": "Klook package",
               "paidById": "traveler-1756512278010",
               "splitWith": [
@@ -571,7 +571,7 @@
     }
   ],
   "activeTab": "Checklist",
-  "expandedItemId": "item-1757753752220",
+  "expandedItemId": "item-1756511935384",
   "flightDetails": {
     "departureFrom": "Singapore",
     "departureTo": "Taipei",
