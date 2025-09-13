@@ -267,6 +267,11 @@
       "text": "Taiwan lucky land - Register 7 days before arrival",
       "checked": false,
       "url": "https://5000.taiwan.net.tw/index_en.html"
+    },
+    {
+      "id": "pre-1757753812550",
+      "text": "Buy Esim",
+      "checked": false
     }
   ],
   "packingList": [
@@ -319,19 +324,13 @@
         {
           "id": "pack-item-1756553490077",
           "text": "Plastic bags",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-item-1756553496661",
           "text": "Recycle bag",
-          "checked": false,
-          "amount": 1
-        },
-        {
-          "id": "pack-item-1756553499405",
-          "text": "Camera",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -375,6 +374,12 @@
           "text": "YY onflight entertainment",
           "checked": false,
           "amount": 1
+        },
+        {
+          "id": "pack-item-1757754479153",
+          "text": "Tablet",
+          "checked": false,
+          "amount": 1
         }
       ]
     },
@@ -385,13 +390,13 @@
         {
           "id": "pack-3",
           "text": "Chargers",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-4",
           "text": "Raincoat",
-          "checked": false,
+          "checked": true,
           "amount": 3
         },
         {
@@ -415,32 +420,14 @@
         {
           "id": "pack-item-1756553608164",
           "text": "Dirty clothes bag",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-item-1756553621355",
           "text": "Caps",
-          "checked": false,
+          "checked": true,
           "amount": 3
-        },
-        {
-          "id": "pack-item-1756553637232",
-          "text": "LP clothes",
-          "checked": false,
-          "amount": 4
-        },
-        {
-          "id": "pack-item-1756553644876",
-          "text": "Makeups",
-          "checked": false,
-          "amount": 1
-        },
-        {
-          "id": "pack-item-1756553650676",
-          "text": "LP PJ sets",
-          "checked": false,
-          "amount": 2
         },
         {
           "id": "pack-item-1756553660702",
@@ -463,6 +450,12 @@
         {
           "id": "pack-item-1756553806996",
           "text": "Kettle",
+          "checked": true,
+          "amount": 1
+        },
+        {
+          "id": "pack-item-1757754018388",
+          "text": "Sunblock",
           "checked": false,
           "amount": 1
         }
@@ -470,59 +463,23 @@
     },
     {
       "id": "pack-grp-1756553410704",
-      "name": "Luggage 2",
+      "name": "Wen",
       "items": [
         {
-          "id": "pack-item-1756553714733",
-          "text": "YY clothes",
-          "checked": false,
-          "amount": 4
-        },
-        {
-          "id": "pack-item-1756553721055",
-          "text": "YY PJ sets",
-          "checked": false,
-          "amount": 4
-        },
-        {
-          "id": "pack-item-1756553731682",
-          "text": "Diapers",
-          "checked": false,
-          "amount": 4
-        },
-        {
-          "id": "pack-item-1756553737989",
-          "text": "YY Socks",
-          "checked": false,
-          "amount": 4
-        },
-        {
-          "id": "pack-item-1756553753300",
-          "text": "YY Underwear",
-          "checked": false,
-          "amount": 5
-        },
-        {
-          "id": "pack-item-1756553765051",
-          "text": "Shower foam",
-          "checked": false,
-          "amount": 1
-        },
-        {
           "id": "pack-item-1756553775288",
-          "text": "XW clothes",
+          "text": "clothes",
           "checked": false,
           "amount": 3
         },
         {
           "id": "pack-item-1756553781446",
-          "text": "XW PJ set",
+          "text": "PJ",
           "checked": false,
           "amount": 2
         },
         {
           "id": "pack-item-1756553791036",
-          "text": "XW Underwear",
+          "text": "Underwear",
           "checked": false,
           "amount": 4
         },
@@ -531,11 +488,89 @@
           "text": "Earpiece",
           "checked": false,
           "amount": 1
+        },
+        {
+          "id": "pack-item-1757755435927",
+          "text": "Camera",
+          "checked": false,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "pack-grp-1757755369737",
+      "name": "Ryan",
+      "items": [
+        {
+          "id": "pack-item-1757755378994",
+          "text": "clothes",
+          "checked": false,
+          "amount": 4
+        },
+        {
+          "id": "pack-item-1757755387130",
+          "text": "PJ",
+          "checked": false,
+          "amount": 4
+        },
+        {
+          "id": "pack-item-1757755400579",
+          "text": "Diaper",
+          "checked": false,
+          "amount": 4
+        },
+        {
+          "id": "pack-item-1757755407088",
+          "text": "Socks",
+          "checked": false,
+          "amount": 4
+        },
+        {
+          "id": "pack-item-1757755418204",
+          "text": "Underwear",
+          "checked": false,
+          "amount": 5
+        },
+        {
+          "id": "pack-item-1757755616117",
+          "text": "Shower foam",
+          "checked": false,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "pack-grp-1757755504072",
+      "name": "Laopor",
+      "items": [
+        {
+          "id": "pack-item-1757755511160",
+          "text": "clothes",
+          "checked": false,
+          "amount": 4
+        },
+        {
+          "id": "pack-item-1757755516884",
+          "text": "PJ",
+          "checked": false,
+          "amount": 2
+        },
+        {
+          "id": "pack-item-1757755528883",
+          "text": "Pillow",
+          "checked": false,
+          "amount": 1
+        },
+        {
+          "id": "pack-item-1757755546576",
+          "text": "Makeups",
+          "checked": false,
+          "amount": 1
         }
       ]
     }
   ],
-  "activeTab": "Itinerary",
+  "activeTab": "Checklist",
   "expandedItemId": "item-1757753752220",
   "flightDetails": {
     "departureFrom": "Singapore",
