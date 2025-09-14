@@ -380,6 +380,12 @@
           "text": "Tablet",
           "checked": false,
           "amount": 1
+        },
+        {
+          "id": "pack-item-1757811864893",
+          "text": "Scissor n utensil ",
+          "checked": false,
+          "amount": 1
         }
       ]
     },
@@ -571,7 +577,7 @@
     }
   ],
   "activeTab": "Checklist",
-  "expandedItemId": "item-1756511935384",
+  "expandedItemId": null,
   "flightDetails": {
     "departureFrom": "Singapore",
     "departureTo": "Taipei",
