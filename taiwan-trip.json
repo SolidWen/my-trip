@@ -58,7 +58,7 @@
     {
       "id": "day-1758297600000",
       "date": "2025-09-20",
-      "location": "Houli",
+      "location": "Taichung",
       "items": [
         {
           "time": "10:00",
@@ -271,13 +271,13 @@
     {
       "id": "pre-1757753812550",
       "text": "Buy Esim",
-      "checked": false
+      "checked": true
     }
   ],
   "packingList": [
     {
       "id": "pack-grp-1",
-      "name": "Backpack",
+      "name": "Carry on",
       "items": [
         {
           "id": "pack-1",
@@ -391,7 +391,7 @@
     },
     {
       "id": "pack-grp-2",
-      "name": "Luggage 1",
+      "name": "Shared",
       "items": [
         {
           "id": "pack-3",
@@ -576,8 +576,8 @@
       ]
     }
   ],
-  "activeTab": "Checklist",
-  "expandedItemId": null,
+  "activeTab": "Itinerary",
+  "expandedItemId": "item-1756511952186",
   "flightDetails": {
     "departureFrom": "Singapore",
     "departureTo": "Taipei",
