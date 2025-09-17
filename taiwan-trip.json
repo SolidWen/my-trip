@@ -328,7 +328,7 @@
         {
           "id": "pack-item-1756553482421",
           "text": "Jacket",
-          "checked": false,
+          "checked": true,
           "amount": 3
         },
         {
@@ -376,7 +376,7 @@
         {
           "id": "pack-item-1756553529805",
           "text": "Medicated oil",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -394,7 +394,7 @@
         {
           "id": "pack-item-1757811864893",
           "text": "Scissor n utensil ",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
@@ -418,13 +418,13 @@
         {
           "id": "pack-item-1756553586660",
           "text": "Medication",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-item-1756553594333",
           "text": "Fans",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -446,21 +446,15 @@
           "amount": 3
         },
         {
-          "id": "pack-item-1756553660702",
-          "text": "Xiao pillow",
-          "checked": false,
-          "amount": 1
-        },
-        {
           "id": "pack-item-1756553679548",
           "text": "Lip balm",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-item-1756553682244",
           "text": "Hand cream",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -472,7 +466,7 @@
         {
           "id": "pack-item-1757754018388",
           "text": "Sunblock",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
@@ -484,19 +478,19 @@
         {
           "id": "pack-item-1756553775288",
           "text": "clothes",
-          "checked": false,
+          "checked": true,
           "amount": 3
         },
         {
           "id": "pack-item-1756553781446",
           "text": "PJ",
-          "checked": false,
+          "checked": true,
           "amount": 2
         },
         {
           "id": "pack-item-1756553791036",
           "text": "Underwear",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
@@ -508,6 +502,12 @@
         {
           "id": "pack-item-1757755435927",
           "text": "Camera",
+          "checked": false,
+          "amount": 1
+        },
+        {
+          "id": "pack-item-1758115724523",
+          "text": "Slipper",
           "checked": false,
           "amount": 1
         }
@@ -532,13 +532,13 @@
         {
           "id": "pack-item-1757755400579",
           "text": "Diaper",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
           "id": "pack-item-1757755407088",
           "text": "Socks",
-          "checked": false,
+          "checked": true,
           "amount": 4
         },
         {
@@ -550,7 +550,7 @@
         {
           "id": "pack-item-1757755616117",
           "text": "Shower foam",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
@@ -586,7 +586,7 @@
       ]
     }
   ],
-  "activeTab": "Itinerary",
+  "activeTab": "Checklist",
   "expandedItemId": null,
   "flightDetails": {
     "departureFrom": "Singapore",
