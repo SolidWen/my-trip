@@ -265,12 +265,17 @@
     {
       "id": "pre-1756552663444",
       "text": "Taiwan lucky land - Register 7 days before arrival",
-      "checked": false,
+      "checked": true,
       "url": "https://5000.taiwan.net.tw/index_en.html"
     },
     {
       "id": "pre-1757753812550",
       "text": "Buy Esim",
+      "checked": true
+    },
+    {
+      "id": "pre-1758080809509",
+      "text": "Register for arrival card",
       "checked": true
     }
   ],
