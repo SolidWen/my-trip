@@ -29,7 +29,12 @@
               ],
               "id": "exp-1756512297046"
             }
-          ]
+          ],
+          "flightDetails": {
+            "flightNumber": "TR 896",
+            "terminal": "1",
+            "airport": "Changi"
+          }
         },
         {
           "time": "16:40",
@@ -582,7 +587,7 @@
     }
   ],
   "activeTab": "Itinerary",
-  "expandedItemId": "item-1756511952186",
+  "expandedItemId": null,
   "flightDetails": {
     "departureFrom": "Singapore",
     "departureTo": "Taipei",
