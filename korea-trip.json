@@ -39,7 +39,12 @@
               ],
               "id": "exp-1756592035488"
             }
-          ]
+          ],
+          "flightDetails": {
+            "flightNumber": "SQ600",
+            "airport": "Changi",
+            "terminal": "T2"
+          }
         },
         {
           "time": "15:35",
