@@ -394,7 +394,7 @@
         {
           "id": "pack-item-1756553509221",
           "text": "Snacks",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -418,7 +418,7 @@
         {
           "id": "pack-item-1757754479153",
           "text": "Tablet",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -430,7 +430,7 @@
         {
           "id": "pack-item-1758195437984",
           "text": "powerbank",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
@@ -508,7 +508,7 @@
         {
           "id": "pack-item-1758155764173",
           "text": "Insect Repellant",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
@@ -538,19 +538,13 @@
         {
           "id": "pack-item-1756553797276",
           "text": "Earpiece",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
           "id": "pack-item-1757755435927",
           "text": "Camera",
-          "checked": false,
-          "amount": 1
-        },
-        {
-          "id": "pack-item-1758115724523",
-          "text": "Slipper",
-          "checked": false,
+          "checked": true,
           "amount": 1
         }
       ]
