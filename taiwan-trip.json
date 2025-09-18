@@ -282,6 +282,21 @@
       "id": "pre-1758080809509",
       "text": "Register for arrival card",
       "checked": true
+    },
+    {
+      "id": "pre-1758155716830",
+      "text": "Cut hair, clean ear first :) - wen",
+      "checked": false
+    },
+    {
+      "id": "pre-1758155726542",
+      "text": "Download show for MD",
+      "checked": false
+    },
+    {
+      "id": "pre-1758155738109",
+      "text": "Download show for wen? need bring powerbank",
+      "checked": false
     }
   ],
   "packingList": [
@@ -362,12 +377,6 @@
           "amount": 1
         },
         {
-          "id": "pack-item-1756553518765",
-          "text": "Insect Repellant",
-          "checked": false,
-          "amount": 1
-        },
-        {
           "id": "pack-item-1756553523685",
           "text": "Mozzie sticker",
           "checked": true,
@@ -443,7 +452,7 @@
           "id": "pack-item-1756553621355",
           "text": "Caps",
           "checked": true,
-          "amount": 3
+          "amount": 2
         },
         {
           "id": "pack-item-1756553679548",
@@ -467,6 +476,12 @@
           "id": "pack-item-1757754018388",
           "text": "Sunblock",
           "checked": true,
+          "amount": 1
+        },
+        {
+          "id": "pack-item-1758155764173",
+          "text": "Insect Repellant",
+          "checked": false,
           "amount": 1
         }
       ]
@@ -573,7 +588,7 @@
         },
         {
           "id": "pack-item-1757755528883",
-          "text": "Pillow",
+          "text": "Xiao Pillow",
           "checked": false,
           "amount": 1
         },
