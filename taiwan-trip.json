@@ -310,19 +310,14 @@
       "checked": true
     },
     {
-      "id": "pre-1758155716830",
-      "text": "Cut hair, clean ear first :) - wen",
-      "checked": false
-    },
-    {
       "id": "pre-1758155726542",
       "text": "Download show for MD",
-      "checked": false
+      "checked": true
     },
     {
       "id": "pre-1758155738109",
       "text": "Download show for wen? need bring powerbank",
-      "checked": false
+      "checked": true
     }
   ],
   "packingList": [
@@ -392,8 +387,8 @@
         },
         {
           "id": "pack-item-1756553506325",
-          "text": "Scissor",
-          "checked": false,
+          "text": "Scissor and utensil",
+          "checked": true,
           "amount": 1
         },
         {
@@ -417,7 +412,7 @@
         {
           "id": "pack-item-1756553561381",
           "text": "YY onflight entertainment",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -430,6 +425,12 @@
           "id": "pack-item-1757811864893",
           "text": "Scissor n utensil ",
           "checked": true,
+          "amount": 1
+        },
+        {
+          "id": "pack-item-1758195437984",
+          "text": "powerbank",
+          "checked": false,
           "amount": 1
         }
       ]
@@ -465,7 +466,7 @@
         {
           "id": "pack-item-1756553602515",
           "text": "Toiletry",
-          "checked": false,
+          "checked": true,
           "amount": 1
         },
         {
@@ -627,7 +628,7 @@
       ]
     }
   ],
-  "activeTab": "Itinerary",
+  "activeTab": "Checklist",
   "expandedItemId": "item-flight-1756510565155",
   "flightDetails": {
     "departureFrom": "Singapore",
