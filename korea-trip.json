@@ -54,7 +54,7 @@
             "arrivalTime": "15:35",
             "gate": "-",
             "zone": "-",
-            "seat": "-"
+            "seat": " 59A,  59B,  59C"
           }
         },
         {
@@ -449,7 +449,7 @@
             "arrivalAirportCode": "SIN",
             "gate": "-",
             "zone": "-",
-            "seat": "-",
+            "seat": "57H, 57J, 57K",
             "arrivalDate": "2025-10-30",
             "arrivalTime": "18:20"
           }
@@ -782,8 +782,8 @@
       ]
     }
   ],
-  "activeTab": "Accommodation",
-  "expandedItemId": "item-flight-1756584002258",
+  "activeTab": "Itinerary",
+  "expandedItemId": "item-flight-1756584002259",
   "flightDetails": {
     "departureFrom": "Singapore",
     "departureTo": "Seoul",
