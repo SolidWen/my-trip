@@ -478,6 +478,17 @@
           }
         }
       ]
+    },
+    {
+      "id": "acc-1758784090304",
+      "name": "Holiday Inn Express Seoul Hongdae by IHG",
+      "address": "Aekyung Tower, 188 Yanghwa-ro, Mapo-Gu, Mapo-gu, Seoul, South Korea",
+      "checkInDate": "0001-01-01",
+      "checkOutDate": "0001-01-01",
+      "bookingReference": "",
+      "notes": "Sis staying here",
+      "additionalUrls": [],
+      "expenses": []
     }
   ],
   "preflightChecklist": [
@@ -759,7 +770,7 @@
       ]
     }
   ],
-  "activeTab": "Itinerary",
+  "activeTab": "Accommodation",
   "expandedItemId": null,
   "flightDetails": {
     "departureFrom": "Singapore",
